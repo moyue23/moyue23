@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>Welcome(｡･∀･)ﾉﾞ</h1>
 
-<!--
-**moyue23/moyue23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Front-end%20Learner.-nl-Nice%20to%20meet%20you!&reversal=false&descAlign=50&fontAlign=50&fontAlignY=40)
 
-Here are some ideas to get you started:
+  <p align="center">
+    <img src="https://counter.seku.su/cmoe?name=moyue23&theme=r34"  width="600px">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,next,python" width="600px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moyue23&theme=monokai" width="600px">
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Placeholder&reversal=false&descAlign=50&fontAlign=50&fontAlignY=60&section=footer)
+</div>
