@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Welcome(｡･∀･)ﾉﾞ</h1>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=timeGradient&text=Frontend%20Developer%20|%20Backend%20Explorer&reversal=false&fontAlign=50&fontSize=40&fontAlignY=43&v=2)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=timeGradient&text=Frontend%20Developer%20|%20Backend%20Explorer&reversal=false&fontAlign=50&fontSize=40&fontAlignY=43&&cache=20260714)
 
   <table>
     <tr>
