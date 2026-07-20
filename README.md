@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://skills.syvixor.com/api/icons?i=ts,react,vite,next,hono,python" width="600">
+        <img src="https://skillicons.dev/icons?i=ts,react,next,nest,python,go" width="600">
         <br/><br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moyue23&theme=monokai" width="600">
       </td>
